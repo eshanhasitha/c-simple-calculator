@@ -3,6 +3,7 @@ int main() {
 int num,num1,sum;
 
 //get inputs from user
+
 printf("___Simple Calculator___\n");
 printf("Enter the number of inputs: ");
 scanf("%d",&num);
